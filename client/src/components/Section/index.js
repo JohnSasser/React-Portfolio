@@ -5,7 +5,7 @@ class Section extends Component {
 
   render () {
   return (
-      <section className={`section section-light container ${this.props.className}`}>
+      <section className={`section container ${this.props.className}`}>
         {this.props.children}
       </section>
   );

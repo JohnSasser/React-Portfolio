@@ -25,8 +25,6 @@ function App() {
         <AboutMe />
       </Section>
 
-      <Section />
-
       <Parallax className="parallax-img2">
         <ProjectContainer />
       </Parallax>
