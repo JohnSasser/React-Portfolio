@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.fea16a68.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.b73f400b.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.b73f400b.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0af1ea3a.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0af1ea3a.js.map",
+    "static/js/2.fecd4f04.chunk.js": "/React-Portfolio/static/js/2.fecd4f04.chunk.js",
+    "static/js/2.fecd4f04.chunk.js.map": "/React-Portfolio/static/js/2.fecd4f04.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.265d5b0bd85c80ce3554fc6eb201292b.js": "/React-Portfolio/precache-manifest.265d5b0bd85c80ce3554fc6eb201292b.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.fea16a68.chunk.css.map": "/React-Portfolio/static/css/main.fea16a68.chunk.css.map",
+    "static/js/2.fecd4f04.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.fecd4f04.chunk.js.LICENSE.txt",
+    "static/media/express-js.svg": "/React-Portfolio/static/media/express-js.b32cf20d.svg",
+    "static/media/filefish-min.png": "/React-Portfolio/static/media/filefish-min.c387e658.png",
+    "static/media/index.css": "/React-Portfolio/static/media/skyline-min.3ec85d66.jpg",
+    "static/media/john-headshots-5.jpg": "/React-Portfolio/static/media/john-headshots-5.167390c4.jpg",
+    "static/media/mongodb-green.svg": "/React-Portfolio/static/media/mongodb-green.cfceea79.svg",
+    "static/media/nodejs-green.svg": "/React-Portfolio/static/media/nodejs-green.94cafb0d.svg",
+    "static/media/note-taker-min.png": "/React-Portfolio/static/media/note-taker-min.e50428df.png",
+    "static/media/property-hunter-min.png": "/React-Portfolio/static/media/property-hunter-min.68304a98.png",
+    "static/media/react.svg": "/React-Portfolio/static/media/react.3ece720a.svg",
+    "static/media/weather-dashboard-min.png": "/React-Portfolio/static/media/weather-dashboard-min.063ce38c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0af1ea3a.js",
+    "static/js/2.fecd4f04.chunk.js",
+    "static/css/main.fea16a68.chunk.css",
+    "static/js/main.b73f400b.chunk.js"
+  ]
+}
