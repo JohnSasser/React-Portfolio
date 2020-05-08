@@ -31,7 +31,7 @@ This basic create-react-app is a portfolio built and maintained with react, host
 
 # About
 
-The app uses react to render the html and takes advantage of react based components to deliver the html.  I am using parallax images for the container backgrounds and formSpree to deliver on the emails.  I chose photos for the parallax images from some of my favorite places in the united states.  
+The app uses react to render the html and takes advantage of react based components to deliver.  I am using parallax images for the container backgrounds and formSpree to deliver on the emails.  I chose photos for the parallax images from some of my favorite places in the united states.  
 
 # Built / Maintained With
 
